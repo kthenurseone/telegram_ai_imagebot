@@ -30,10 +30,9 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 
 
 ## Installation
-1) Get your wallet's private key and wallet address from metamask.
-2) Input it into settings.ini
-3) Paste your token contract adddress into settings.ini
-4) Run the program.
+1) Create a bot with [@botfather](https://t.me/botfather) on telegram.
+2) Input your bot token into settings.ini
+3) Buy a licence key from [@kthenurseone](https://t.me/kthenurseone)
 
 
 ## Images
